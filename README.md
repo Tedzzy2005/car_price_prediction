@@ -1,0 +1,1 @@
+This project develops a machine learning model to predict the selling price of used cars. Key steps include data preprocessing, where categorical attributes like fuel type and transmission are converted into numerical values, followed by training a Linear Regression model to estimate market value based on factors like age and mileage.
